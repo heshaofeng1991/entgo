@@ -1,6 +1,6 @@
 /*
 	@Author  johnny
-	@Author  johnny.he@nextsmartship.com
+	@Author  heshaofeng1991@gmail.com
 	@Version v1.0.0
 	@File    platform_product
 	@Date    2022/3/19 7:20 下午

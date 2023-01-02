@@ -1,6 +1,6 @@
 /*
 	@Author  johnny
-	@Author  johnny.he@nextsmartship.com
+	@Author  heshaofeng1991@gmail.com
 	@Version v1.0.0
 	@File    channel_recommend
 	@Date    2022/5/24 10:21
@@ -52,4 +52,3 @@ func (ChannelRecommend) Fields() []ent.Field {
 func (ChannelRecommend) Edges() []ent.Edge {
 	return nil
 }
-
